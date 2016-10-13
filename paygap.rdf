@@ -1,0 +1,558 @@
+<http://ex.org/countries/European Union (27 countries)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/European Union (27 countries)> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/European Union (27 countries)> <http://ex.org/gi#value> "17.2" .
+<http://ex.org/countries/Belgium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Belgium> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Belgium> <http://ex.org/gi#value> "10.1" .
+<http://ex.org/countries/Bulgaria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Bulgaria> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Bulgaria> <http://ex.org/gi#value> "13.3" .
+<http://ex.org/countries/Czech Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Czech Republic> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Czech Republic> <http://ex.org/gi#value> "25.9" .
+<http://ex.org/countries/Denmark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Denmark> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Denmark> <http://ex.org/gi#value> "16.8" .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://ex.org/gi#value> "22.6" .
+<http://ex.org/countries/Estonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Estonia> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Estonia> <http://ex.org/gi#value> "26.6" .
+<http://ex.org/countries/Ireland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Ireland> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Ireland> <http://ex.org/gi#value> "12.6" .
+<http://ex.org/countries/Greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Greece> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Greece> <http://ex.org/gi#value> ":" .
+<http://ex.org/countries/Spain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Spain> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Spain> <http://ex.org/gi#value> "16.7" .
+<http://ex.org/countries/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/France> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/France> <http://ex.org/gi#value> "15.2" .
+<http://ex.org/countries/Italy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Italy> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Italy> <http://ex.org/gi#value> "5.5" .
+<http://ex.org/countries/Cyprus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Cyprus> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Cyprus> <http://ex.org/gi#value> "17.8" .
+<http://ex.org/countries/Latvia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Latvia> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Latvia> <http://ex.org/gi#value> "13.1" .
+<http://ex.org/countries/Lithuania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Lithuania> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Lithuania> <http://ex.org/gi#value> "15.3" .
+<http://ex.org/countries/Luxembourg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Luxembourg> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Luxembourg> <http://ex.org/gi#value> "9.2" .
+<http://ex.org/countries/Hungary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Hungary> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Hungary> <http://ex.org/gi#value> "17.1" .
+<http://ex.org/countries/Malta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Malta> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Malta> <http://ex.org/gi#value> "7.7" .
+<http://ex.org/countries/Netherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Netherlands> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Netherlands> <http://ex.org/gi#value> "18.5" .
+<http://ex.org/countries/Austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Austria> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Austria> <http://ex.org/gi#value> "24.3" .
+<http://ex.org/countries/Poland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Poland> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Poland> <http://ex.org/gi#value> "8.0" .
+<http://ex.org/countries/Portugal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Portugal> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Portugal> <http://ex.org/gi#value> "10.0" .
+<http://ex.org/countries/Romania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Romania> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Romania> <http://ex.org/gi#value> "7.4" .
+<http://ex.org/countries/Slovenia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Slovenia> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Slovenia> <http://ex.org/gi#value> "-0.9" .
+<http://ex.org/countries/Slovakia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Slovakia> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Slovakia> <http://ex.org/gi#value> "21.9" .
+<http://ex.org/countries/Finland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Finland> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Finland> <http://ex.org/gi#value> "20.8" .
+<http://ex.org/countries/Sweden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Sweden> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Sweden> <http://ex.org/gi#value> "15.7" .
+<http://ex.org/countries/United Kingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/United Kingdom> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/United Kingdom> <http://ex.org/gi#value> "20.6" .
+<http://ex.org/countries/Iceland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Iceland> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Iceland> <http://ex.org/gi#value> "18.0" .
+<http://ex.org/countries/Norway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Norway> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Norway> <http://ex.org/gi#value> "16.5" .
+<http://ex.org/countries/Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Switzerland> <http://ex.org/gi#year> "2009" .
+<http://ex.org/countries/Switzerland> <http://ex.org/gi#value> "18.4" .
+<http://ex.org/countries/European Union (27 countries)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/European Union (27 countries)> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/European Union (27 countries)> <http://ex.org/gi#value> "16.2" .
+<http://ex.org/countries/Belgium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Belgium> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Belgium> <http://ex.org/gi#value> "10.2" .
+<http://ex.org/countries/Bulgaria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Bulgaria> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Bulgaria> <http://ex.org/gi#value> "13.0" .
+<http://ex.org/countries/Czech Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Czech Republic> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Czech Republic> <http://ex.org/gi#value> "21.6" .
+<http://ex.org/countries/Denmark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Denmark> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Denmark> <http://ex.org/gi#value> "15.9" .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://ex.org/gi#value> "22.3" .
+<http://ex.org/countries/Estonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Estonia> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Estonia> <http://ex.org/gi#value> "27.7" .
+<http://ex.org/countries/Ireland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Ireland> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Ireland> <http://ex.org/gi#value> "13.9" .
+<http://ex.org/countries/Greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Greece> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Greece> <http://ex.org/gi#value> "15.0" .
+<http://ex.org/countries/Spain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Spain> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Spain> <http://ex.org/gi#value> "16.2" .
+<http://ex.org/countries/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/France> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/France> <http://ex.org/gi#value> "15.6" .
+<http://ex.org/countries/Italy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Italy> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Italy> <http://ex.org/gi#value> "5.3" .
+<http://ex.org/countries/Cyprus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Cyprus> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Cyprus> <http://ex.org/gi#value> "16.8" .
+<http://ex.org/countries/Latvia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Latvia> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Latvia> <http://ex.org/gi#value> "15.5" .
+<http://ex.org/countries/Lithuania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Lithuania> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Lithuania> <http://ex.org/gi#value> "14.6" .
+<http://ex.org/countries/Luxembourg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Luxembourg> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Luxembourg> <http://ex.org/gi#value> "8.7" .
+<http://ex.org/countries/Hungary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Hungary> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Hungary> <http://ex.org/gi#value> "17.6" .
+<http://ex.org/countries/Malta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Malta> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Malta> <http://ex.org/gi#value> "7.2" .
+<http://ex.org/countries/Netherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Netherlands> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Netherlands> <http://ex.org/gi#value> "17.8" .
+<http://ex.org/countries/Austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Austria> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Austria> <http://ex.org/gi#value> "24.0" .
+<http://ex.org/countries/Poland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Poland> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Poland> <http://ex.org/gi#value> "4.5" .
+<http://ex.org/countries/Portugal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Portugal> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Portugal> <http://ex.org/gi#value> "12.8" .
+<http://ex.org/countries/Romania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Romania> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Romania> <http://ex.org/gi#value> "8.8" .
+<http://ex.org/countries/Slovenia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Slovenia> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Slovenia> <http://ex.org/gi#value> "0.9" .
+<http://ex.org/countries/Slovakia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Slovakia> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Slovakia> <http://ex.org/gi#value> "19.6" .
+<http://ex.org/countries/Finland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Finland> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Finland> <http://ex.org/gi#value> "20.3" .
+<http://ex.org/countries/Sweden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Sweden> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Sweden> <http://ex.org/gi#value> "15.4" .
+<http://ex.org/countries/United Kingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/United Kingdom> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/United Kingdom> <http://ex.org/gi#value> "19.5" .
+<http://ex.org/countries/Iceland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Iceland> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Iceland> <http://ex.org/gi#value> "17.7" .
+<http://ex.org/countries/Norway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Norway> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Norway> <http://ex.org/gi#value> "16.1" .
+<http://ex.org/countries/Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Switzerland> <http://ex.org/gi#year> "2010" .
+<http://ex.org/countries/Switzerland> <http://ex.org/gi#value> "17.8" .
+<http://ex.org/countries/European Union (27 countries)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/European Union (27 countries)> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/European Union (27 countries)> <http://ex.org/gi#value> "16.6" .
+<http://ex.org/countries/Belgium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Belgium> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Belgium> <http://ex.org/gi#value> "10.2" .
+<http://ex.org/countries/Bulgaria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Bulgaria> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Bulgaria> <http://ex.org/gi#value> "13.0" .
+<http://ex.org/countries/Czech Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Czech Republic> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Czech Republic> <http://ex.org/gi#value> "22.6" .
+<http://ex.org/countries/Denmark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Denmark> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Denmark> <http://ex.org/gi#value> "16.3" .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://ex.org/gi#value> "22.2" .
+<http://ex.org/countries/Estonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Estonia> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Estonia> <http://ex.org/gi#value> "27.3" .
+<http://ex.org/countries/Ireland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Ireland> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Ireland> <http://ex.org/gi#value> "11.7" .
+<http://ex.org/countries/Greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Greece> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Greece> <http://ex.org/gi#value> ":" .
+<http://ex.org/countries/Spain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Spain> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Spain> <http://ex.org/gi#value> "17.9" .
+<http://ex.org/countries/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/France> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/France> <http://ex.org/gi#value> "15.6" .
+<http://ex.org/countries/Italy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Italy> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Italy> <http://ex.org/gi#value> "5.8" .
+<http://ex.org/countries/Cyprus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Cyprus> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Cyprus> <http://ex.org/gi#value> "16.4" .
+<http://ex.org/countries/Latvia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Latvia> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Latvia> <http://ex.org/gi#value> "13.6" .
+<http://ex.org/countries/Lithuania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Lithuania> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Lithuania> <http://ex.org/gi#value> "11.9" .
+<http://ex.org/countries/Luxembourg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Luxembourg> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Luxembourg> <http://ex.org/gi#value> "8.7" .
+<http://ex.org/countries/Hungary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Hungary> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Hungary> <http://ex.org/gi#value> "18.0" .
+<http://ex.org/countries/Malta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Malta> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Malta> <http://ex.org/gi#value> "6.2" .
+<http://ex.org/countries/Netherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Netherlands> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Netherlands> <http://ex.org/gi#value> "18.6" .
+<http://ex.org/countries/Austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Austria> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Austria> <http://ex.org/gi#value> "23.7" .
+<http://ex.org/countries/Poland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Poland> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Poland> <http://ex.org/gi#value> "5.5" .
+<http://ex.org/countries/Portugal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Portugal> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Portugal> <http://ex.org/gi#value> "12.8" .
+<http://ex.org/countries/Romania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Romania> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Romania> <http://ex.org/gi#value> "11" .
+<http://ex.org/countries/Slovenia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Slovenia> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Slovenia> <http://ex.org/gi#value> "2.3" .
+<http://ex.org/countries/Slovakia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Slovakia> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Slovakia> <http://ex.org/gi#value> "20.5" .
+<http://ex.org/countries/Finland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Finland> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Finland> <http://ex.org/gi#value> "19.6" .
+<http://ex.org/countries/Sweden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Sweden> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Sweden> <http://ex.org/gi#value> "15.8" .
+<http://ex.org/countries/United Kingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/United Kingdom> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/United Kingdom> <http://ex.org/gi#value> "20.1" .
+<http://ex.org/countries/Iceland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Iceland> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Iceland> <http://ex.org/gi#value> "18.3" .
+<http://ex.org/countries/Norway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Norway> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Norway> <http://ex.org/gi#value> "15.9" .
+<http://ex.org/countries/Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Switzerland> <http://ex.org/gi#year> "2011" .
+<http://ex.org/countries/Switzerland> <http://ex.org/gi#value> "17.9" .
+<http://ex.org/countries/European Union (27 countries)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/European Union (27 countries)> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/European Union (27 countries)> <http://ex.org/gi#value> "16.6" .
+<http://ex.org/countries/Belgium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Belgium> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Belgium> <http://ex.org/gi#value> "10.0" .
+<http://ex.org/countries/Bulgaria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Bulgaria> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Bulgaria> <http://ex.org/gi#value> "14.7" .
+<http://ex.org/countries/Czech Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Czech Republic> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Czech Republic> <http://ex.org/gi#value> "22.2" .
+<http://ex.org/countries/Denmark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Denmark> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Denmark> <http://ex.org/gi#value> "16.8" .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://ex.org/gi#value> "22.4" .
+<http://ex.org/countries/Estonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Estonia> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Estonia> <http://ex.org/gi#value> "30.0" .
+<http://ex.org/countries/Ireland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Ireland> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Ireland> <http://ex.org/gi#value> "14.4" .
+<http://ex.org/countries/Greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Greece> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Greece> <http://ex.org/gi#value> ":" .
+<http://ex.org/countries/Spain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Spain> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Spain> <http://ex.org/gi#value> "19.3" .
+<http://ex.org/countries/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/France> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/France> <http://ex.org/gi#value> "15.4" .
+<http://ex.org/countries/Italy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Italy> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Italy> <http://ex.org/gi#value> "6.7" .
+<http://ex.org/countries/Cyprus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Cyprus> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Cyprus> <http://ex.org/gi#value> "16.2" .
+<http://ex.org/countries/Latvia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Latvia> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Latvia> <http://ex.org/gi#value> "13.8" .
+<http://ex.org/countries/Lithuania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Lithuania> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Lithuania> <http://ex.org/gi#value> "12.6" .
+<http://ex.org/countries/Luxembourg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Luxembourg> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Luxembourg> <http://ex.org/gi#value> "8.6" .
+<http://ex.org/countries/Hungary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Hungary> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Hungary> <http://ex.org/gi#value> "20.1" .
+<http://ex.org/countries/Malta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Malta> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Malta> <http://ex.org/gi#value> "6.5" .
+<http://ex.org/countries/Netherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Netherlands> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Netherlands> <http://ex.org/gi#value> "17.6" .
+<http://ex.org/countries/Austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Austria> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Austria> <http://ex.org/gi#value> "23.4" .
+<http://ex.org/countries/Poland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Poland> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Poland> <http://ex.org/gi#value> "6.4" .
+<http://ex.org/countries/Portugal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Portugal> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Portugal> <http://ex.org/gi#value> "14.8" .
+<http://ex.org/countries/Romania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Romania> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Romania> <http://ex.org/gi#value> "9.7" .
+<http://ex.org/countries/Slovenia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Slovenia> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Slovenia> <http://ex.org/gi#value> "2.5" .
+<http://ex.org/countries/Slovakia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Slovakia> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Slovakia> <http://ex.org/gi#value> "21.5" .
+<http://ex.org/countries/Finland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Finland> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Finland> <http://ex.org/gi#value> "19.4" .
+<http://ex.org/countries/Sweden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Sweden> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Sweden> <http://ex.org/gi#value> "15.9" .
+<http://ex.org/countries/United Kingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/United Kingdom> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/United Kingdom> <http://ex.org/gi#value> "19.1" .
+<http://ex.org/countries/Iceland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Iceland> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Iceland> <http://ex.org/gi#value> "18.7" .
+<http://ex.org/countries/Norway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Norway> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Norway> <http://ex.org/gi#value> "15.1" .
+<http://ex.org/countries/Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Switzerland> <http://ex.org/gi#year> "2012" .
+<http://ex.org/countries/Switzerland> <http://ex.org/gi#value> "19.2" .
+<http://ex.org/countries/European Union (27 countries)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/European Union (27 countries)> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/European Union (27 countries)> <http://ex.org/gi#value> "16.5" .
+<http://ex.org/countries/Belgium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Belgium> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Belgium> <http://ex.org/gi#value> "10.0" .
+<http://ex.org/countries/Bulgaria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Bulgaria> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Bulgaria> <http://ex.org/gi#value> "13.5" .
+<http://ex.org/countries/Czech Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Czech Republic> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Czech Republic> <http://ex.org/gi#value> "22.1" .
+<http://ex.org/countries/Denmark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Denmark> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Denmark> <http://ex.org/gi#value> "16.4" .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://ex.org/gi#value> "21.6" .
+<http://ex.org/countries/Estonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Estonia> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Estonia> <http://ex.org/gi#value> "29.9" .
+<http://ex.org/countries/Ireland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Ireland> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Ireland> <http://ex.org/gi#value> ":" .
+<http://ex.org/countries/Greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Greece> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Greece> <http://ex.org/gi#value> ":" .
+<http://ex.org/countries/Spain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Spain> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Spain> <http://ex.org/gi#value> "18.8" .
+<http://ex.org/countries/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/France> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/France> <http://ex.org/gi#value> "15.3" .
+<http://ex.org/countries/Italy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Italy> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Italy> <http://ex.org/gi#value> "7.3" .
+<http://ex.org/countries/Cyprus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Cyprus> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Cyprus> <http://ex.org/gi#value> "15.8" .
+<http://ex.org/countries/Latvia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Latvia> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Latvia> <http://ex.org/gi#value> "14.4" .
+<http://ex.org/countries/Lithuania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Lithuania> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Lithuania> <http://ex.org/gi#value> "13.3" .
+<http://ex.org/countries/Luxembourg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Luxembourg> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Luxembourg> <http://ex.org/gi#value> "8.6" .
+<http://ex.org/countries/Hungary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Hungary> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Hungary> <http://ex.org/gi#value> "18.4" .
+<http://ex.org/countries/Malta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Malta> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Malta> <http://ex.org/gi#value> "5.1" .
+<http://ex.org/countries/Netherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Netherlands> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Netherlands> <http://ex.org/gi#value> "16.6" .
+<http://ex.org/countries/Austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Austria> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Austria> <http://ex.org/gi#value> "23.0" .
+<http://ex.org/countries/Poland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Poland> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Poland> <http://ex.org/gi#value> "7.1" .
+<http://ex.org/countries/Portugal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Portugal> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Portugal> <http://ex.org/gi#value> "13.0" .
+<http://ex.org/countries/Romania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Romania> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Romania> <http://ex.org/gi#value> "9.1" .
+<http://ex.org/countries/Slovenia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Slovenia> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Slovenia> <http://ex.org/gi#value> "3.2" .
+<http://ex.org/countries/Slovakia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Slovakia> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Slovakia> <http://ex.org/gi#value> "19.8" .
+<http://ex.org/countries/Finland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Finland> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Finland> <http://ex.org/gi#value> "18.7" .
+<http://ex.org/countries/Sweden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Sweden> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Sweden> <http://ex.org/gi#value> "15.2" .
+<http://ex.org/countries/United Kingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/United Kingdom> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/United Kingdom> <http://ex.org/gi#value> "19.7" .
+<http://ex.org/countries/Iceland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Iceland> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Iceland> <http://ex.org/gi#value> "20.5" .
+<http://ex.org/countries/Norway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Norway> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Norway> <http://ex.org/gi#value> "16.0" .
+<http://ex.org/countries/Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Switzerland> <http://ex.org/gi#year> "2013" .
+<http://ex.org/countries/Switzerland> <http://ex.org/gi#value> "19.3" .
+<http://ex.org/countries/European Union (27 countries)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/European Union (27 countries)> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/European Union (27 countries)> <http://ex.org/gi#value> "16.2" .
+<http://ex.org/countries/Belgium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Belgium> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Belgium> <http://ex.org/gi#value> "9.9" .
+<http://ex.org/countries/Bulgaria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Bulgaria> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Bulgaria> <http://ex.org/gi#value> "13.4" .
+<http://ex.org/countries/Czech Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Czech Republic> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Czech Republic> <http://ex.org/gi#value> "22.1" .
+<http://ex.org/countries/Denmark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Denmark> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Denmark> <http://ex.org/gi#value> "15.8" .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Germany (until 1990 former territory of the FRG)> <http://ex.org/gi#value> "21.6" .
+<http://ex.org/countries/Estonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Estonia> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Estonia> <http://ex.org/gi#value> "28.3" .
+<http://ex.org/countries/Ireland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Ireland> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Ireland> <http://ex.org/gi#value> ":" .
+<http://ex.org/countries/Greece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Greece> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Greece> <http://ex.org/gi#value> ":" .
+<http://ex.org/countries/Spain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Spain> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Spain> <http://ex.org/gi#value> "18.8" .
+<http://ex.org/countries/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/France> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/France> <http://ex.org/gi#value> "15.3" .
+<http://ex.org/countries/Italy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Italy> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Italy> <http://ex.org/gi#value> "6.5" .
+<http://ex.org/countries/Cyprus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Cyprus> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Cyprus> <http://ex.org/gi#value> "15.4" .
+<http://ex.org/countries/Latvia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Latvia> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Latvia> <http://ex.org/gi#value> "15.2" .
+<http://ex.org/countries/Lithuania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Lithuania> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Lithuania> <http://ex.org/gi#value> "14.8" .
+<http://ex.org/countries/Luxembourg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Luxembourg> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Luxembourg> <http://ex.org/gi#value> "8.6" .
+<http://ex.org/countries/Hungary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Hungary> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Hungary> <http://ex.org/gi#value> "15.1" .
+<http://ex.org/countries/Malta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Malta> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Malta> <http://ex.org/gi#value> "4.5" .
+<http://ex.org/countries/Netherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Netherlands> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Netherlands> <http://ex.org/gi#value> "16.2" .
+<http://ex.org/countries/Austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Austria> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Austria> <http://ex.org/gi#value> "22.9" .
+<http://ex.org/countries/Poland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Poland> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Poland> <http://ex.org/gi#value> "7.7" .
+<http://ex.org/countries/Portugal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Portugal> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Portugal> <http://ex.org/gi#value> "14.5" .
+<http://ex.org/countries/Romania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Romania> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Romania> <http://ex.org/gi#value> "10.1" .
+<http://ex.org/countries/Slovenia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Slovenia> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Slovenia> <http://ex.org/gi#value> "2.9" .
+<http://ex.org/countries/Slovakia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Slovakia> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Slovakia> <http://ex.org/gi#value> "21.1" .
+<http://ex.org/countries/Finland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Finland> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Finland> <http://ex.org/gi#value> "18.0" .
+<http://ex.org/countries/Sweden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Sweden> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Sweden> <http://ex.org/gi#value> "14.6" .
+<http://ex.org/countries/United Kingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/United Kingdom> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/United Kingdom> <http://ex.org/gi#value> "18.3" .
+<http://ex.org/countries/Iceland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Iceland> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Iceland> <http://ex.org/gi#value> "18.7" .
+<http://ex.org/countries/Norway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Norway> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Norway> <http://ex.org/gi#value> "14.9" .
+<http://ex.org/countries/Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.org/gi#Paygap> .
+<http://ex.org/countries/Switzerland> <http://ex.org/gi#year> "2014" .
+<http://ex.org/countries/Switzerland> <http://ex.org/gi#value> ":" .
